@@ -7,6 +7,7 @@ Developer | Designer | AI Enthusiast
 I'm a computer science graduate coding for over 5 years. Currently learning web development and design. I'm also an avid AI researcher recently immersed into the world of AI art generation.
 
 * 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [samin-irtiza.github.io](http://samin-irtiza.github.io/)
 * ✉️  You can contact me at [md.saminirtiza@gmail.com](mailto:md.saminirtiza@gmail.com)
 * 🧠  I'm learning everything Javascript and Tensorflow
 
