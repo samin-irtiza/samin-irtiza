@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Samin Irtiza
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=500&color=F2FF14&center=true&vCenter=true&width=600&height=200&lines=Hi%2C+I'm+Samin;Welcome+to+my+profile+%F0%9F%99%83" alt="Typing SVG" /></a></div>
+
+Md. Samin Irtiza
 ========================================================================================================================================
 
 Developer | Designer | AI Enthusiast
