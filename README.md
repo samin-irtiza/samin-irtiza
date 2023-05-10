@@ -1,4 +1,9 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=500&color=F2FF14&center=true&vCenter=true&width=600&height=200&lines=Hi%2C+I'm+Samin;Welcome+to+my+profile+%F0%9F%99%83" alt="Typing SVG" /></a></div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=3000&pause=1000&color=F2FF14&center=true&vCenter=true&width=600&height=200&lines=Hi%2C+I'm+Samin;Welcome+to+my+profile+%F0%9F%99%83" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=200&lines=Hi%2C+I'm+Samin;Welcome+to+my+profile+%F0%9F%99%83" />
+  </picture>
+</div>
 
 Md. Samin Irtiza
 ========================================================================================================================================
