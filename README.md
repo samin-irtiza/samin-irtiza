@@ -53,8 +53,8 @@ I'm a computer science graduate coding for over 5 years. Currently learning web 
 
 ### Stats
 <div class="img" display="flex" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samin-irtiza&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-irtiza&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1"> </br>
+<img src="https://github-readme-stats.vercel.app/api?username=samin-irtiza&rank_icon=github&theme=merko&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-irtiza&hide_progress=true&theme=merko"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samin-irtiza&theme=merko&hide_border=false"/></br>
 </div>
 
