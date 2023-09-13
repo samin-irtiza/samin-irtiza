@@ -11,7 +11,7 @@ Md. Samin Irtiza
 DevOps Pracitioner | Developer | AI Enthusiast
 ------------------------------------
 
-I'm a computer science graduate coding for over 6 years. A DevOps pracitioner and currently learning AWS and Kubernetes and IaC. I'm also an avid AI researcher recently immersed into the world of generative AI.
+I'm a computer science graduate coding for over 6 years. A DevOps practitioner and currently learning AWS and Kubernetes and IaC. I'm also an avid AI researcher recently immersed into the world of generative AI.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [samin-irtiza.github.io](http://samin-irtiza.github.io/)
