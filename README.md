@@ -14,9 +14,8 @@ DevOps Pracitioner | Developer | AI Enthusiast
 I'm a computer science graduate learning and developing for over 8 years. A DevOps practitioner and currently learning Azure, AWS, Kubernetes and MLFlow. I'm also an avid AI researcher recently immersed into the world of generative AI.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [samin-irtiza.github.io](http://samin-irtiza.github.io/)
 * ✉️  You can contact me at [md.saminirtiza@gmail.com](mailto:md.saminirtiza@gmail.com)
-* 🧠  I'm learning everything DevSecOps and Tensorflow
+* 🧠  I'm learning everything DevSecOps, Tensorflow & MLFlow
 
 ### Skills
 
