@@ -11,7 +11,7 @@ Md. Samin Irtiza
 DevOps Pracitioner | Developer | AI Enthusiast
 ------------------------------------
 
-I'm a computer science graduate learning and developing for over 8 years. A DevOps practitioner and currently learning Azure, AWS, Kubernetes and MLFlow. I'm also an avid AI researcher recently immersed into the world of generative AI.
+I'm a computer science graduate learning and developing softwares for over 8 years. A DevOps practitioner and currently learning Azure, AWS, Kubernetes and MLFlow. I'm also an avid AI researcher recently immersed into the world of generative AI.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [md.saminirtiza@gmail.com](mailto:md.saminirtiza@gmail.com)
